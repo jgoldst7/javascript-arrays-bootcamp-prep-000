@@ -8,3 +8,4 @@ function hello(hiagain){
 hello(`${chocolateBars}`)
 
 console.log("eminem",...chocolateBars)
+console.log(chocolateBars)
