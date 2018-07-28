@@ -9,3 +9,4 @@ hello(`${chocolateBars}`)
 
 var newBar = ["eminem",...chocolateBars]
 console.log(newBar)
+console.log(chocolateBars)
