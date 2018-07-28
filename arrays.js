@@ -2,4 +2,4 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 
 
-return $[chocolateBars]
+return $chocolateBars
