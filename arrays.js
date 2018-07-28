@@ -6,3 +6,5 @@ function hello(hiagain){
   console.log(`${hiagain}`)
 }
 hello(`${chocolateBars}`)
+
+console.log(`${chocolateBars}`)
