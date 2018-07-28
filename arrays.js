@@ -7,6 +7,6 @@ function addElementToBeginningOfArray(array, element){
   return `newArray`
   
 }
-addElementToBeginningOfArray(chocolateBars, "element")
+
 
 
