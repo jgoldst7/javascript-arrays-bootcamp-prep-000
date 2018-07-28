@@ -2,7 +2,7 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 
 
-function return(){
+function hello{
   console.log("hello")
 }
-return()
+hello()
