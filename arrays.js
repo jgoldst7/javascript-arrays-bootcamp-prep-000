@@ -8,6 +8,3 @@ function addElementToBeginningOfArray(first, array){
 }
 addElementToBeginningOfArray(`"eminem", ${chocolateBars}`)
 
-var newBar = ["eminem",...chocolateBars]
-console.log(newBar)
-console.log(chocolateBars)
