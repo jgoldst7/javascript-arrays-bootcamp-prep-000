@@ -7,4 +7,4 @@ function hello(hiagain){
 }
 hello(`${chocolateBars}`)
 
-[`"eminem",...${chocolateBars}`]
+return chocolateBars
