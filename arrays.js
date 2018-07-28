@@ -37,3 +37,13 @@ function removeElementFromBeginningOfArray(array){
   first = array.slice(1)
   return first
 }
+
+function destructivelyRemoveElementFromEndOfArray(array){
+  array.pop()
+  return array
+}
+
+function removeElementFromEndOfArray(array){
+  last = array.slice(0, array.length - 1)
+  return last
+}
