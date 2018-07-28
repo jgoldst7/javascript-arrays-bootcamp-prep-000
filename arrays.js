@@ -3,7 +3,6 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 
 function hello(hiagain){
-  return `${hiagain}`
-  console.log("hello")
+  console.log("hiagain")
 }
 hello("twenty")
