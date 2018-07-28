@@ -7,3 +7,4 @@ function addElementToBeginningOfArray(array, addition){
 }
 addElementToBeginningOfArray("chocolateBars", "eminem")
 
+console.log"chocolateBars"
