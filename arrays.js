@@ -8,4 +8,5 @@ function addElementToBeginningOfArray(first, array){
   
 }
 addElementToBeginningOfArray("eminem", chocolateBars)
+console.log(chocolateBars)
 
