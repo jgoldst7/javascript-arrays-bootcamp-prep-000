@@ -7,3 +7,4 @@ function hello(hiagain){
 }
 hello(`${chocolateBars}`)
 
+console.log(`chocolateBars[1]`)
