@@ -7,5 +7,5 @@ function hello(hiagain){
 }
 hello(`${chocolateBars}`)
 
-console.log("eminem",...chocolateBars)
-console.log(chocolateBars)
+var newBar = ["eminem",...chocolateBars]
+console.log(newBar)
