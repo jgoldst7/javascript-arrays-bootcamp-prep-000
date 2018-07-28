@@ -6,5 +6,5 @@ function addElementToBeginningOfArray(first, array){
   console.log(first)
   
 }
-addElementToBeginningOfArray(`${chocolateBars}`)
+addElementToBeginningOfArray(eminem)
 
