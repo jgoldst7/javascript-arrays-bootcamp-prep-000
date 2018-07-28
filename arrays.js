@@ -6,4 +6,4 @@ function hello(hiagain){
   console.log("hello")
   return `${hiagain}`
 }
-hello()
+hello(twenty)
