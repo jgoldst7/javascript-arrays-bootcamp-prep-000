@@ -2,7 +2,8 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 
 
-function hello(hello){
+function hello(hiagain){
   console.log("hello")
+  return `hiagain`
 }
-hello()
+hello(twenty)
