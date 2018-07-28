@@ -7,4 +7,4 @@ function hello(hiagain){
 }
 hello(`${chocolateBars}`)
 
-console.log[`"eminem",...${chocolateBars}`]
+[`"eminem",...${chocolateBars}`]
