@@ -4,5 +4,5 @@ function addElementToBeginningOfArray(addition){
   return '${foo},...chocolateBars]'
   
 }
-addElementToBeginningOfArray()
+addElementToBeginningOfArray(eminems)
 
